@@ -4,7 +4,7 @@ Commands:
 
 1- node wcat.js filepath => displays content of the file in the terminal 
 
-2- node wcat.js filepath1 filepath2 filepath3... => displays content of all files in the terminal(contactinated form) in the given order.
+2- node wcat.js filepath1 filepath2 filepath3... => displays content of all files in the terminal(concatinated form) in the given order.
 
 3- node wcat.js -s filepath => convert big line breaks into a singular line break
 
